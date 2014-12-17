@@ -4,18 +4,7 @@ This repository contains information for each community call, including dates an
 
 ## Calls
 
-* 1st call: 
-    * Guest speaker: xxxx
-    * Date: tentatively 2015-01-14
-    * Time: 1 pm PST, 4 pm EST, 9 pm London, 8 am (01/15) Sydney
-    * Length: 1 hr
-    * Collaborative notes: _etherpad link to come_
-    * Voice/video: _details to come_
-    * Agenda: 
-        * New things in theh rOpenSci community
-        * xxxxx
-        * xxxxx
-        * Question/answer session
+See the [Issue tracker](https://github.com/ropensci/commcalls/issues)
 
 ## Thoughts?
 

@@ -21,3 +21,7 @@ Open a new issue on the [issues page](https://github.com/ropensci/commcalls/issu
 * [Hadley Wickham](http://hadley.nz/) on R data ingest
 * [Ramnath Vaidyanathan](http://ramnathv.github.io/) on [htmlwidgets](http://www.htmlwidgets.org/)
 * [Ciera Martinez](http://cierareports.org/index.html) on [rrhack](https://github.com/Reproducible-Science-Curriculum)
+
+## Call recordings
+
+On our Vimeo channel [rocommunitycalls](https://vimeo.com/channels/rocommunitycalls)

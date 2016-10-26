@@ -12,6 +12,7 @@ Open a new issue on the [issues page](https://github.com/ropensci/commcalls/issu
 
 ## Previous speakers
 
+* [Jeroen Ooms](https://github.com/jeroenooms) on [magick](https://github.com/ropensci/magick)
 * [Nicole White](http://nicolewhite.github.io/) on [pystr](https://github.com/nicolewhite/pystr)
 * [Jenny Bryan](https://github.com/jennybc) on [googlesheets](https://github.com/jennybc/googlesheets)
 * [Karissa McKelvey](http://karissa.github.io/) on [dat](http://dat-data.com/)
